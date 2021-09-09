@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-08T08:04:17Z" name="Default suite" finished-at="2021-09-08T08:04:20Z" duration-ms="3051">
+  <suite started-at="2021-09-09T13:55:51Z" name="Default suite" finished-at="2021-09-09T13:55:54Z" duration-ms="3192">
     <groups>
     </groups>
-    <test started-at="2021-09-08T08:04:17Z" name="Default test" finished-at="2021-09-08T08:04:20Z" duration-ms="3051">
-      <class name="practice.PayloadwithExternalFile">
-        <test-method signature="test02()[pri:0, instance:practice.PayloadwithExternalFile@740cae06]" started-at="2021-09-08T08:04:17Z" name="test02" finished-at="2021-09-08T08:04:20Z" duration-ms="2969" status="PASS">
+    <test started-at="2021-09-09T13:55:51Z" name="Default test" finished-at="2021-09-09T13:55:54Z" duration-ms="3192">
+      <class name="CurrentWeatherData.GetCurrentWeatherByCityName">
+        <test-method signature="ByCityName()[pri:0, instance:CurrentWeatherData.GetCurrentWeatherByCityName@740cae06]" started-at="2021-09-09T13:55:51Z" name="ByCityName" finished-at="2021-09-09T13:55:54Z" duration-ms="3132" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test02 -->
-      </class> <!-- practice.PayloadwithExternalFile -->
+        </test-method> <!-- ByCityName -->
+      </class> <!-- CurrentWeatherData.GetCurrentWeatherByCityName -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
